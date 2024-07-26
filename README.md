@@ -38,6 +38,3 @@ After training and evaluating the model, it was retrained on the full training d
 - **Dataset Source:** This dataset was created by figure-eight and shared on their 'Data For Everyone' website.
 - **Tweet Source:** [Tweet Example](https://twitter.com/AnyOtherAnnaK/status/629195955506708480).
 
-## Contact
-
-For questions or discussions related to this project, please join the Kaggle competition's [Discord community](https://discord.gg/kaggle).

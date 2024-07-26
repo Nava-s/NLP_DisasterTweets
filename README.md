@@ -36,5 +36,4 @@ After training and evaluating the model, it was retrained on the full training d
 ## Acknowledgements
 
 - **Dataset Source:** This dataset was created by figure-eight and shared on their 'Data For Everyone' website.
-- **Tweet Source:** [Tweet Example](https://twitter.com/AnyOtherAnnaK/status/629195955506708480).
-
+  
